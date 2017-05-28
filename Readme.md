@@ -4,15 +4,14 @@ I am currently studying towards a PhD in Bioengineering at the [ABI](http://www.
 
 ## Synopsis
 
-I am trying to solve for a stress field for an arbitrary geometry that is subject to known loads and boundary conditions, these models are being developed using [abaqus](https://www.3ds.com/products-services/simulia/products/abaqus/), and need to be functional for nonlinear deformations and hyperelastic materials. :honey_pot: This is being done concurrently as part of the Digital skills for ABI researchers course. This repository covers the developement of a testing and results retrieval framework to speed up developement of the model.
-
+I am trying to solve for a stress field in an arbitrary geometry that is subject to known loads and boundary conditions, these models are being developed using [abaqus](https://www.3ds.com/products-services/simulia/products/abaqus/), and need to be functional for nonlinear deformations and hyperelastic materials. :honey_pot: This is being done concurrently as part of the Digital skills for ABI researchers course. This repository covers the developement of a *testing and results retrieval framework*.
 ## Code Example
 
 * TO BE COMPLETED
 
 ## Motivation
 
-The lungs exist in a state of 'prestress' in-vivo - that is they are in equilibrium with pressure loads and tissue elasticity. I aim to incorporate this into my models of simple deformation so that they are more representitive of the in-vivo state. As when initially imported, my meshes are assumed to be stress-free.
+The lungs exist in a state of 'prestress' in-vivo - that is they are in equilibrium with pressure loads and tissue elasticity. I aim to incorporate this into my models of simple deformation so that they are more representitive of the in-vivo state. This issue arises as my image segmentations contain only geometric information.
 
 ## Installation
 
