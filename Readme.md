@@ -1,10 +1,10 @@
 ## Overview :+1: :smile: :+1:
 
-I am currently studying towards a PhD in Bioengineering at the [ABI](http://www.abi.auckland.ac.nz/en.html), my work investigates the mechanics of lung microtissue mechanics using FEM models constructed from µCT imaging data taked from chemically fixed, excised rat lungs. Unfortunately I am not 100% sure what project I will be working on during this course.
+I am currently studying towards a PhD in Bioengineering at the [ABI](http://www.abi.auckland.ac.nz/en.html), my work looks at the mechanics of lung microtissue using FEM models constructed from µCT imaging data taked from chemically fixed, excised rat lungs. 
 
 ## Synopsis
 
-I am trying to solve for a stress field given an arbitrary geometry that is subject to known loads and boundary conditions, these models are being developed using [abaqus](https://www.3ds.com/products-services/simulia/products/abaqus/), and need to e functional for nonlinear deforamtions and hyperelastic materials. :honey_pot: This is being done concurrently as part of the Digital skills for ABI researchers course. This repository covers the developement of a testing and results retrieval framework to speed up developement of the model.
+I am trying to solve for a stress field for an arbitrary geometry that is subject to known loads and boundary conditions, these models are being developed using [abaqus](https://www.3ds.com/products-services/simulia/products/abaqus/), and need to be functional for nonlinear deformations and hyperelastic materials. :honey_pot: This is being done concurrently as part of the Digital skills for ABI researchers course. This repository covers the developement of a testing and results retrieval framework to speed up developement of the model.
 
 ## Code Example
 
