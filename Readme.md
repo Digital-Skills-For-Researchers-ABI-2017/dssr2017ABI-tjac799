@@ -1,14 +1,18 @@
+## Overview :+1: :smile: :+1:
+
+I am currently studying towards a PhD in Bioengineering at the [ABI](http://www.abi.auckland.ac.nz/en.html),my work investigates the mechanics of lung microtissue mechanics using FEM models constructed from ÂµCT imaging data taked from chemically fixed, excised rat lungs. Unfortunately I am not 100% sure what project I will be working on during this course.
+
 ## Synopsis
 
-I am currently studying towards a PhD in Bioengineering at the [ABI](http://www.abi.auckland.ac.nz/en.html)',my work investigates the mechanics of lung microtissue mechanics using FEM models constructed from µCT imaging data taked from chemically fixed, excised rat lungs.
+I am trying to solve for a stress field given an arbitrary geometry that is subject to known loads and boundary conditions, these models are being developed using [abaqus](https://www.3ds.com/products-services/simulia/products/abaqus/), and need to e functional for nonlinear deforamtions and hyperelastic materials. :honey_pot: This is being done concurrently as part of the Digital skills for ABI researchers course. This repository covers the developement of a testing and results retrieval framework to speed up developement of the model.
 
 ## Code Example
 
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+* TO BE COMPLETED
 
 ## Motivation
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+The lungs exist in a state of 'prestress' in-vivo - that is they are in equilibrium with pressure loads and tissue elasticity. I aim to incorporate this into my models of simple deformation so that they are more representitive of the in-vivo state. As when initially imported, my meshes are assumed to be stress-free.
 
 ## Installation
 
