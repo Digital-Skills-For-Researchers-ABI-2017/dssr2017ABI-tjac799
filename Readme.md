@@ -1,6 +1,6 @@
 ## Overview :+1: :smile: :+1:
 
-I am currently studying towards a PhD in Bioengineering at the [ABI](http://www.abi.auckland.ac.nz/en.html),my work investigates the mechanics of lung microtissue mechanics using FEM models constructed from µCT imaging data taked from chemically fixed, excised rat lungs. Unfortunately I am not 100% sure what project I will be working on during this course.
+I am currently studying towards a PhD in Bioengineering at the [ABI](http://www.abi.auckland.ac.nz/en.html), my work investigates the mechanics of lung microtissue mechanics using FEM models constructed from µCT imaging data taked from chemically fixed, excised rat lungs. Unfortunately I am not 100% sure what project I will be working on during this course.
 
 ## Synopsis
 
