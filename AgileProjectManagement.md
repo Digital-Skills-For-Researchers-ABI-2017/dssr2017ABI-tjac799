@@ -1,4 +1,4 @@
-# Project Management
+## Project Management
 
 This document contains a selection of notes comparing **waterfall management** compared to **agile project developement**. I remember hearing about agile developement being used at Fisher & Paykel.
 
@@ -37,3 +37,14 @@ Outlines a cycle of planning, building, and testing that we can use to develope 
 Think about these beforet they become an issue, for example: 
 
 Dev Team member is also the SCRUM master . . . 
+
+#### User Stories
+
+AS A ... \[Role]\
+I WANT ...\[Goal]\
+SO THAT ...\[Benefit]
+
+e.g\
+AS AN *early PhD Student*\
+I WANT *to learn data management and version control*\
+SO THAT *I can work more efficiently and reproducibly in the future*
