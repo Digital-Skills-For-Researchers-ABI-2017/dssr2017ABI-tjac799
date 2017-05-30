@@ -14,6 +14,9 @@ control your own space
 
 Where is my time best spent
 
+Always assume you are working tired and not at your best, your file system should make it hard for stupid errors to occur.
+
+
 
 
 
