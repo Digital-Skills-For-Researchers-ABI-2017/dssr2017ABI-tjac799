@@ -16,7 +16,9 @@ Where is my time best spent
 
 Always assume you are working tired and not at your best, your file system should make it hard for stupid errors to occur.
 
+Try and use open-source where possible this makes it easy for anyone who wants to collaborate
 
+Create data files that can be read by a machine, don't think like a human.
 
-
+Be careful with software that thinks. It usually makes things hard for you.
 
