@@ -22,3 +22,6 @@ Create data files that can be read by a machine, don't think like a human.
 
 Be careful with software that thinks. It usually makes things hard for you.
 
+**From Hugh**
+
+Never version control any generated files, it's pointless
