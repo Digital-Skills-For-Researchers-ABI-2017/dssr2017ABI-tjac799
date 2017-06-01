@@ -13,7 +13,7 @@ n_coord = {}
 n_disp={}
 for node in all_nodes:
     n_coord[node.label] = node.coordinates
-    n_disp[node.label] = U.values[int(node.label)-1].data
+    n_disp[U.values[int(node.label)-1].nodeLabel] = U.values[int(node.label)-1].data[0]
 # n_coord
 
 # print n_coord.keys()
