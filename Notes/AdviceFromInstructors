@@ -28,3 +28,9 @@ Never version control any generated files, it's pointless
 **Anthony**
 
 Commit frequently, and push frequently. Make sure your commits are decriptive (hearty support from Hugh)
+
+Each commit should tell you what happened in that commit, when you look at a pull request the commit history should tell you which commits are important for the overviewer to look at. *UPdate file x* is not sufficient.
+
+As soon as you push, you should never change your commit history.
+
+Your commits shoudl be modular, you should therefore work in a modular fashion as well. A good way of thinking about this is that by mixing in code changes in addition to formatting in the same commit, it is difficult to determine what changes were important ones and what were just whitespace modifications. If the changes (and therefore work had been dones in a modular way, i.e change code - commit, reformat - commit, then that would have saved whoever had to look at the pull request a lot of work (Alys we are all looking at you)
