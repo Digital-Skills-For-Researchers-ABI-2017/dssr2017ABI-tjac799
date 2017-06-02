@@ -28,3 +28,7 @@ Never version control any generated files, it's pointless
 **Anthony**
 
 Commit frequently, and push frequently. Make sure your commits are decriptive (hearty support from Hugh)
+
+Each commit should tell you what happened in that commit, when you look at a pull request the commit history should tell you which commits are important for the overviewer to look at. *UPdate file x* is not sufficient.
+
+As soon as you push, you should never change your commit history.
