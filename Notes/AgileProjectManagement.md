@@ -21,7 +21,7 @@ If you know **EXACTLY** what you need to produce, waterfall management is fine. 
 this is where agile developement is better as it is highly **adaptable** and **iterative**. Allows **rapid prototyping** and developement :smile:
 
 #### SCRUM methodology
-Outlines a cycle of planning, building, and testing that we can use to develope in an [agile](https://github.com/Toby-Jackson/dssr2017ABI-tjac799/new/master#agile-project-management) manner. ![alt text](https://github.com/Toby-Jackson/dssr2017ABI-tjac799/Notes/scrum-process.png )
+Outlines a cycle of planning, building, and testing that we can use to develope in an [agile](https://github.com/Toby-Jackson/dssr2017ABI-tjac799/new/master#agile-project-management) manner. ![alt text](https://github.com/Toby-Jackson/dssr2017ABI-tjac799/blob/master/Notes/scrum-process.png )
 - Backlog (complete wishlist)
 - Sprint Backlog (high priority items to be completed in a sprint)
 - Sprint
