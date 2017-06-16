@@ -1,0 +1,36 @@
+## Random Things that I thought were wise
+
+Don't plan to full your day, there is high probability that low probability events will occur.
+
+Overestimate how long you think things will take, things usually take longer
+
+Seperate things that are seperate, understand where the contingencies are
+
+Cards in a project should be actionable items, break jobs into fragments - essentially simplex items.
+
+Keep work and personal seperate
+
+control your own space
+
+Where is my time best spent
+
+Always assume you are working tired and not at your best, your file system should make it hard for stupid errors to occur.
+
+Try and use open-source where possible this makes it easy for anyone who wants to collaborate
+
+Create data files that can be read by a machine, don't think like a human.
+
+Be careful with software that thinks. It usually makes things hard for you.
+
+**From Hugh**
+
+Never version control any generated files, it's pointless
+**Anthony**
+
+Commit frequently, and push frequently. Make sure your commits are decriptive (hearty support from Hugh)
+
+Each commit should tell you what happened in that commit, when you look at a pull request the commit history should tell you which commits are important for the overviewer to look at. *UPdate file x* is not sufficient.
+
+As soon as you push, you should never change your commit history.
+
+Your commits shoudl be modular, you should therefore work in a modular fashion as well. A good way of thinking about this is that by mixing in code changes in addition to formatting in the same commit, it is difficult to determine what changes were important ones and what were just whitespace modifications. If the changes (and therefore work had been dones in a modular way, i.e change code - commit, reformat - commit, then that would have saved whoever had to look at the pull request a lot of work (Alys we are all looking at you)
